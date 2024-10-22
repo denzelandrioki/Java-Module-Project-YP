@@ -1,4 +1,5 @@
 public class Car {
+    //Новый пулл
     private final String name;
     private final double speed;
 
