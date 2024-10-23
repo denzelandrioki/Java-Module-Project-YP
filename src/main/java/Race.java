@@ -1,4 +1,5 @@
 public class Race {
+    //Новый пулл
     private Car leader;
 
     // Метод для определения лидера гонки
